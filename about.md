@@ -1,15 +1,12 @@
 ---
 layout: page
-title: About
+title: About the blog
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am starting this blog for sharing my technical notes mostly about VueJS, Typescript and similar frameworks.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+  Also I have keen interest to share my understanding of competitive coding and like to explain how to approach or solve them based on the problem statement.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+  Additionally, I have my spare blog to write about non technical notes and take aways about my life. Most of them consist of my personal opinions, trip regards and books too!
+  If you like to check out that, please visit [my-blog-here](<https://azaawriting.blogspot.com/>), I do update regularly.
