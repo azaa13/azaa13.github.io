@@ -6,7 +6,7 @@ categories: jest unit-test typescript
 ---
 
 Writing a unit test is really required to insure functions expected operation. During this task some unnoticed bugs can be found, so we can fix it before even deploying.
-Depend on the project framework, we can use any kind of unit testing tools. There are numerous and popular, strong testing tools are available most of the frequently used frameworks such as VueJs, Angular, React etc.
+Depend on the project framework, we can use any kind of unit testing tools. There are many popular as well strong testing tools are available and it is used in most of the frameworks such as VueJs, Angular, React etc.
 
 To find out a unit testing tool which align with the project requirement, it is advised to take some time to read their documentation and write simple test cases in order to get familiar with their syntax and usage.
 
@@ -56,7 +56,9 @@ We've checked two different parameter here.
 1. Given input number type 100 is equal to string type "100".
 2. Type of returned value is same as `string`.
 
-Just for info purpose, it is advised that in `describe()` block, better to write function or method that has been tested. In `it()` block explain the behavior of the test. In above case, the test converts given input value as string, so it described as `returns input vale as str type`.
+Just for info purpose, it is advised that in `describe()` block, better to write function or method that has been tested. In `it()` block explain the behavior of the test. In above case, the test converts given input value as string, so it described as `returns input value as str type`.
+
+After finished to write test, write in command line tool `npm run test` to run the test.
 
 This maybe good start, if you just planning to use jest testing tool in your project.
 
