@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to upgrade vue-cli v3 to vue-cli v4"
-date:   2020-01-230 17:16:00 +0900
+date:   2020-01-30 17:16:00 +0900
 categories: vue-cli4 cli vuejs
 ---
 
