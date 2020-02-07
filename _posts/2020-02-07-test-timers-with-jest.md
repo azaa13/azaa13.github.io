@@ -45,4 +45,4 @@ it("call draw() 10 times per a sec",()=>{
 
 We've used `fakeTimers()` function to behave as native timer function from `jest`. Using this it is quite straightforward, after all we just need to assert whether `setInterval` function have been called only once.
 
-For more info, encouraging you to visit https://jestjs.io/docs/en/timer-mocks and try more tests using it.
+For more info, encouraging you to visit <https://jestjs.io/docs/en/timer-mocks> and try more tests using it.

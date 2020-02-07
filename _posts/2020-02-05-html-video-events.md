@@ -28,4 +28,4 @@ process | after loading video frame, it is processed to buffer video data (video
 
 The event listening plays important rules if you want to manipulate video's data. For example, onCanPlay play videos at rate of 2.(twice as faster than normal speed of video ) or invoke another function to work with video etc. 
 
-More info, visit https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video.
+More info, visit <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video>.
