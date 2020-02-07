@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why HTML's <video> event listening tag matters? "
+title:  "Why HTML's `<video>` event listening tag matters? "
 date:   2020-02-05 18:11:00 +0900
 categories: hmtl dom video event
 ---
