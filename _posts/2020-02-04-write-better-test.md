@@ -5,7 +5,7 @@ date:   2020-02-4 17:21:00 +0900
 categories: unit-test vue-test-utils jest
 ---
 
-Writing unit testing is vital process of any software or application development. Without unit testing it is way difficult to assure that given function or method is working as expected or not. Instead, writing a test and its failure  makes us to debug and lead some improvements of the function or method.
+Writing a unit test is vital process of any software or application development. Without unit testing it is way difficult to assure that given function or method is working as expected or not. Instead, writing a test and its failure  makes us to debug and lead some improvements of the function or method.
 
 ## Front-End development
 So what if we using Front-End framework and only developing UI components? Indeed, we should test those components by applying UI or E2E testing or integration testing. 
@@ -39,11 +39,11 @@ In any FE application, I am assuming that components are implemented. But in SFC
 
 ```
 
-For unit testing we need to test logic written in `<script></script>` section. For DOM element part which is written in `<template></template>` section can be testing using UI testing or E2E testing.
+For unit testing we need to test logic written in `<script></script>` section. For DOM element part which is written in `<template></template>` section can be tested using UI testing or E2E testing.
 
 Since for unit testing we'are using `jest` JS testing framework, it provides pretty much API that can we use in our testing.
 
-Here is lists of widely used yet strong functions that we will help you to write much better unit test.
+Here is lists of widely used yet strong functions that will help us to write much better unit test.
 
 I am assuming that you are familiar with  fundamental testing functions or APIs, so not including in this list.
 
