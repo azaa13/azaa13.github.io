@@ -45,7 +45,7 @@ Let's say we have an array [2,1,3], by using Heap's algorithm we can generate pe
 ## Sample code
 
 
-```
+```py
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
         n = len(nums)
@@ -69,3 +69,5 @@ class Solution:
                     nums[i], nums[k-1] = nums[k-1],nums[i] 
                 self.heapAlgorithm(k-1, nums, res)
 ```
+
+This algo runtime is 32ms and memory usage is 12.9mb.
